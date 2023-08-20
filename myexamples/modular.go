@@ -3,7 +3,7 @@ package main
 import (
     "fmt"
 
-    "github.com/gohack"
+    "github.com/pankajmaurya/mygoplayground/gohack"
 )
 
 func main() {
